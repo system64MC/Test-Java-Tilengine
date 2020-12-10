@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="128" height="128" tilewidth="8" tileheight="8" infinite="0" nextlayerid="5" nextobjectid="1">
+ <tileset firstgid="1" source="track1.tsx"/>
+ <tileset firstgid="97" source="ground.tsx"/>
+ <layer id="1" name="Layer 1" width="128" height="128">
+  <data encoding="base64" compression="zlib">
+   eJztzrENxDAAxDCv6uw/xH+RGQ4CwkIFO91zzv33vF1m/owrH8y8d+WDmfeufDDz3pUPZt678sHMe1c+mHnvygcz7135YOa9Kx/MvHflg5n3rnww896VD2beu/LBzHtXPph578oHM+9d+WDmvSsfzLx35YOZ9658MPPelQ9m3rvywcx7Vz6Yee/KBzPvXflg5r0rH8y8d+WDmfeufDDz3pUPZt678sHMe1c+mHnvygcz7135YOa9Kx/MvHflg5n3rnww896VD2beu/LBzHtXPph578oHM+9d+WDmvSsfzLx35YOZ9658MPPelQ9m3rvywcx7Vz6Yee/KBzPvXflg5r0rH8y8d+WDmfeufDDz3pUPZt678sHMe1c+mHnvygcz7135YOa9Kx/MvHflg5n3rnww896VD2beu/LBzHtXPph578oHM+/9A52YYWk=
+  </data>
+ </layer>
+</map>

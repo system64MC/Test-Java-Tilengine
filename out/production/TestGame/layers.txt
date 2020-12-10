@@ -1,0 +1,16 @@
+&1                   // set graphics mode, here, mode1 with 3 layers
+
+:1                   // layer number
+1                    // is a playground ? [0, 1] --> [False, True] True enables collisions.
+tileset1.tsx,level1.tmx     // load tileset, tilemap
+
+:2
+1
+tileset2.tsx,level1.tmx
+
+
+:3
+0
+tileset3.tsx,bg3.tmx
+
+
