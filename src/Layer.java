@@ -35,7 +35,7 @@ public class Layer {
     public void create()
     {
         int foreground = Global.tln.LoadTilemap (tilemap, layerName);
-        Global.tln.SetLayer (this.layerID, 0, foreground);
+        Global.tln.SetLayer (0, 0, foreground);
     }
 
     //public static void setLayer(int layers[])

@@ -18,9 +18,11 @@ public class TestWindow {
 
         // Global.tln.SetLayerBlendMode(1, 1, (byte) 1)
         Global.init();
+
         //l1.create();
-        RasterEffects raster = new RasterEffects("test", 0);
-        raster.createRaster();
+        //RasterEffects raster = new RasterEffects("test", 0);
+        //raster.createRaster();
+        System.out.println("Test");
         // Global.tln.SetRasterCallback(null, "raster");
         int frame = 0;
 
@@ -42,8 +44,8 @@ public class TestWindow {
         System.out.println(foreground);
         Global.tln.SetLayer (0, 0, foreground);
         //Global.tln.SetLayerTilemap(0, Global.tln.LoadTilemap("sonic_md_fg1.tmx", "Layer 1"));
-        int test = Global.tln.GetLayerWidth(0);
-        System.out.println(test);
+        // int test = Global.tln.GetLayerWidth(0);
+        // System.out.println(test);
 
         // int frame = 0;
 
